@@ -1,0 +1,13 @@
+<mod>
+	<info>
+		<author>Raziel23x</author>
+		<name>Dawn of the Ghouls</name>
+		<description>Will Add description later</description>
+		<mod_version>0.0.1</mod_version>
+		<game_version>16.4</game_version>
+		<launcher_version>0.7.2</launcher_version>
+	</info>
+	<config_mods>
+		<import file="Config\DawnOfTheGhouls.xml" />
+	</config_mods>
+</mod>
